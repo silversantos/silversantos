@@ -1,4 +1,4 @@
-### Hey, it's me! 👋
+### Hey, I'm Silver! 👋
 
 - 🔭 I’m currently working on a NodeJS project called Markdown-Links that will allow you to run it through all of your .md files to check which links are still working and which are broken(cool, uh?)!
 - 🌱 I’m currently learning a lot about NodeJS itself, along with regEx, CLI, CommonJS Modules, package.json, http and a lot more!
